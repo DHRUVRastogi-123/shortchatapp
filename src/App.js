@@ -9,7 +9,7 @@ import { useEffect, useRef, useState } from 'react';
 
 firebase.initializeApp({
   apiKey: "AIzaSyBqOLnwmcoecgLz2xp1uNy60iX0Z1gSUBs",
-  authDomain: "shortchatappbydhruv.onrender.com",
+  authDomain: "shortchatapp.firebaseapp.com",
   projectId: "shortchatapp",
   storageBucket: "shortchatapp.appspot.com",
   messagingSenderId: "708994302824",
